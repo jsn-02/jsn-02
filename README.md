@@ -21,7 +21,7 @@ My values of responsibility and commitment to excellence drive my dedication to 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conducting an Internal Security Audit          | <a href="https://github.com/jsn-02/Conduct-a-Security-Audit/edit/main/README.md">Conduct a Security Audit</a>|
+| Conducting an Internal Security Audit          | <a href="https://github.com/jsn-02/Conduct-a-Security-Audit">Conduct a Security Audit</a>|
 | WIP          | <a href="https://matias.me/nsfw/">N/A</a>|
 <!-- | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
