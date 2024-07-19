@@ -68,4 +68,5 @@ My values of responsibility and commitment to excellence drive my dedication to 
 </div>
 
 ## Other Projects
-- <a href="https://github.com/jsn-02/Analyzing-Network-Attacks">Analyzing Network Attacks</a>
+- <a href="https://github.com/jsn-02/Analyze-Network-Layer-Communication">Analyze Network Layer Communication</a>
+- <a href="https://github.com/jsn-02/Analyze-Network-Attacks">Analyze Network Attacks</a>
