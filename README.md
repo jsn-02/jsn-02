@@ -3,7 +3,10 @@
 
 <!-- [Brief Introduction] -->
 
-I am recent graduate with an A.S. in Management Information Systems (MIS)
+I am recent graduate with an A.S. in Management Information Science (MIS).
+This program has equipped me with a strong foundation in using and managing various computer applications and operating systems so that I may produce timely and accurate information, enabling me to pproduce timely and accurate information.
+
+As I prepare to pursue a B.S. in Cybersecurity, my portfolio highlights the technical skills and projects that reflect my dedication to advancing my expertise in this field.
 
 ## Objective
 <!-- [Provide Objective] -->
