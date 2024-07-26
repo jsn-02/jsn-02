@@ -27,6 +27,7 @@ My values of responsibility and commitment to excellence drive my dedication to 
 |-----------------------------------------------|----------------------------|
 | Conducting Internal Security Audits | <a href="https://github.com/jsn-02/Conduct-a-Security-Audit">Conduct a Security Audit</a> |
 | Developing and Implementing Incident Response Plans | <a href="https://github.com/jsn-02/Respond-to-a-Security-Incident">Respond to a Security Incident</a> |
+| Basic SQL | <a href="https://github.com/jsn-02/Apply-Filters-to-SQL-Queries">Apply Filters to SQL Queries</a> |
 | Basic Python | <a href="https://github.com/jsn-02/Update-a-File-Through-a-Python-Algorithm">Update a File Through a Python Algorithm</a> |
 | WIP          | <a href="https://matias.me/nsfw/">N/A</a>|
 <!-- | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
