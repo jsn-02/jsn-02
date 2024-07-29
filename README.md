@@ -3,16 +3,12 @@
 
 <!-- [Brief Introduction] -->
 
-I am recent graduate with an A.S. in Management Information Science (MIS).
-This program has equipped me with a strong foundation in using and managing various computer applications and operating systems so that I may produce timely and accurate information, enabling me to pproduce timely and accurate information.
-
-As I prepare to pursue a B.S. in Cybersecurity, my portfolio highlights the technical skills and projects that reflect my dedication to advancing my expertise in this field.
+[WIP]
 
 ## Objective
 <!-- [Provide Objective] -->
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now aiming to kickstart my cybersecurity career as a Tier 1 Analyst in a Security Operations Center (SOC).
-I’m eager to use my technical skills and analytical mindset to help detect and respond to cyber threats while continuing to grow and learn in this fast-paced field.
+[WIP]
 
 ## Professional Statement
 
