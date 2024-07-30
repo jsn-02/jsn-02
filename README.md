@@ -3,12 +3,16 @@
 
 <!-- [Brief Introduction] -->
 
-[WIP]
+I am recent graduate with an A.S. in Management Information Science (MIS).
+This program has equipped me with a strong foundation in using and managing various computer applications and operating systems so that I may produce timely and accurate information, enabling me to produce timely and accurate information.
+
+As I prepare to pursue a B.S. in Cybersecurity, my portfolio highlights the technical skills and projects that reflect my dedication to advancing my expertise in this field.
 
 ## Objective
 <!-- [Provide Objective] -->
 
-[WIP]
+My journey in IT has led me to develop a passion for cybersecurity, and I am now aiming to kickstart my cybersecurity career as a Tier 1 Analyst in a Security Operations Center (SOC).
+I’m eager to use my technical skills and analytical mindset to help detect and respond to cyber threats while continuing to grow and learn in this fast-paced field.
 
 ## Professional Statement
 
@@ -23,6 +27,7 @@ My values of responsibility and commitment to excellence drive my dedication to 
 |-----------------------------------------------|----------------------------|
 | Conducting Internal Security Audits | <a href="https://github.com/jsn-02/Conduct-a-Security-Audit">Conduct a Security Audit</a> |
 | Developing and Implementing Incident Response Plans | <a href="https://github.com/jsn-02/Respond-to-a-Security-Incident">Respond to a Security Incident</a> |
+| Linux | <a href="">Use Linux Commands to Manage File Permissions</a> |
 | Basic SQL | <a href="https://github.com/jsn-02/Apply-Filters-to-SQL-Queries">Apply Filters to SQL Queries</a> |
 | Basic Python | <a href="https://github.com/jsn-02/Update-a-File-Through-a-Python-Algorithm">Update a File Through a Python Algorithm</a> |
 | WIP          | <a href="https://matias.me/nsfw/">N/A</a>|
