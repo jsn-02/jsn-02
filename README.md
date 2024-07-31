@@ -27,7 +27,7 @@ My values of responsibility and commitment to excellence drive my dedication to 
 |-----------------------------------------------|----------------------------|
 | Conducting Internal Security Audits | <a href="https://github.com/jsn-02/Conduct-a-Security-Audit">Conduct a Security Audit</a> |
 | Developing and Implementing Incident Response Plans | <a href="https://github.com/jsn-02/Respond-to-a-Security-Incident">Respond to a Security Incident</a> |
-| Basic Linux | <a href="https://github.com/jsn-02/Manage-File-Permissions-in-Linux/tree/main">Manage File Permissions in Linux</a> |
+| Basic Linux | <a href="https://github.com/jsn-02/Use-Linux-Commands-to-Manage-File-Permissions">Manage File Permissions in Linux</a> |
 | Basic SQL | <a href="https://github.com/jsn-02/Apply-Filters-to-SQL-Queries">Filter SQL Queries</a> |
 | Basic Python | <a href="https://github.com/jsn-02/Update-a-File-Through-a-Python-Algorithm">Update a File with Python</a> |
 <!-- | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
