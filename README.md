@@ -1,5 +1,5 @@
 # Hello, I'm Jason!
-<a href="www.linkedin.com/in/jason-villa-7650902ba"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="http://www.linkedin.com/in/jason-villa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!-- [Brief Introduction] -->
 
