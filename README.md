@@ -17,7 +17,7 @@ I’m eager to use my technical skills and analytical mindset to help detect and
 ## Professional Statement
 
 I am a highly motivated individual passionate about entering the field of cybersecurity.
-With strong attention to detail, a deep sense of responsibility, and effective communication skills, I am dedicated to identifying and mitigating cyber threats to protect organizations and individuals.
+With strong organization, attention to detail, continuous learning, analytical decision making, and concise communication, I am dedicated to identifying and mitigating cyber threats to protect organizations and individuals.
 My values of responsibility and commitment to excellence drive my dedication to ensuring the confidentiality, integrity, and availability of sensitive information, thereby supporting the security goals of various organizations.
 
 ## Skills
