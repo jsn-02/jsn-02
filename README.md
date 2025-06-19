@@ -63,6 +63,12 @@ My values of responsibility and commitment to excellence drive my dedication to 
     <img src="https://img.shields.io/badge/-Chronicle-222d41?&style=for-the-badge" />
 </div>
 
+### Vulnerability Scan
+<div>
+    <img src="https://img.shields.io/badge/-OpenVAS-32A100?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-0086C3?&style=for-the-badge&logoColor=white" />
+</div>
+
 ## Certifications
 <!-- [Provide certifications that you have obtained] -->
 <div>
