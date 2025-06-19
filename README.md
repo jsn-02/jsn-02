@@ -6,7 +6,7 @@
 I am recent graduate with an A.S. in Management Information Science (MIS).
 This program has equipped me with a strong foundation in using and managing various computer applications and operating systems so that I may produce timely and accurate information, enabling me to produce timely and accurate information.
 
-As I prepare to pursue a B.S. in Cybersecurity, my portfolio highlights the technical skills and projects that reflect my dedication to advancing my expertise in this field.
+As I pursue a B.S. in Cybersecurity, my portfolio highlights the technical skills and projects that reflect my dedication to advancing my expertise in this field.
 
 ## Objective
 <!-- [Provide Objective] -->
@@ -43,8 +43,10 @@ My values of responsibility and commitment to excellence drive my dedication to 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tcpdump-1E90FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Nmap-004170?style=for-the-badge" />
+    <!-- <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> -->
 </div>
 
 ### Endpoint
