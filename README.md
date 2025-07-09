@@ -1,5 +1,5 @@
 # Hello, I'm Jason!
-<a href="http://www.linkedin.com/in/jason-villa"  target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="http://www.linkedin.com/in/jason-villa"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://drive.google.com/file/d/17s_eUNzYh2TzhotEQ1HYUBpnzMK9XuG_/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-4CAF50?&style=for-the-badge&logo=file&logoColor=white" /></a>
 
 <!-- [Brief Introduction] -->
