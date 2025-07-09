@@ -1,5 +1,6 @@
 # Hello, I'm Jason!
-<a href="http://www.linkedin.com/in/jason-villa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="http://www.linkedin.com/in/jason-villa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://drive.google.com/file/d/17s_eUNzYh2TzhotEQ1HYUBpnzMK9XuG_/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-4CAF50?&style=for-the-badge&logo=file&logoColor=white" /></a>
 
 <!-- [Brief Introduction] -->
 
@@ -23,13 +24,14 @@ My values of responsibility and commitment to excellence drive my dedication to 
 ## Skills
 <!-- [Provide skills and associated project. Make sure to hyperlink the project] -->
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project(s)      |
 |-----------------------------------------------|----------------------------|
 | Conducting Internal Security Audits | <a href="https://github.com/jsn-02/Conduct-a-Security-Audit">Conduct a Security Audit</a> |
 | Developing and Implementing Incident Response Plans | <a href="https://github.com/jsn-02/Respond-to-a-Security-Incident">Respond to a Security Incident</a> |
 | Basic Linux | <a href="https://github.com/jsn-02/Use-Linux-Commands-to-Manage-File-Permissions">Manage File Permissions in Linux</a> |
 | Basic SQL | <a href="https://github.com/jsn-02/Apply-Filters-to-SQL-Queries">Filter SQL Queries</a> |
 | Basic Python | <a href="https://github.com/jsn-02/Update-a-File-Through-a-Python-Algorithm">Update a File with Python</a> |
+| Vulnerability Scanning | <a href="https://github.com/jsn-02/Vulnerability-Scan-with-Nessus">Vulnerability Scan with Nessus</a> |
 <!-- | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
